@@ -10,6 +10,8 @@ above details in another class using inheritance?
 4. Use a loop to call showDetails() for each employee, printing the details.
 5. Return from main() to terminate the program.
 # PROGRAM :
+NAME  : DILIP KUMAR R
+REG NO : 212222040037
 ```
 #include <iostream>
 using namespace std;
